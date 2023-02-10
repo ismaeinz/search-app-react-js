@@ -4,7 +4,7 @@ import JSONDATA from "./MOCK_DATA.json";
 const App = () => {
   const [searchTerm, setSearchTerm] = useState("");
 
-  return (;
+  return (
     <>
       <div>
         <input
